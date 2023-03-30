@@ -1,4 +1,4 @@
-# Docker Registry
+### Docker Registry
 usage:
 ```
 git clone https://github.com/msw-x/docregistry.git
