@@ -8,4 +8,4 @@ services:
     volumes:
       - ./data:/var/lib/registry
     ports:
-      - "5000:5000"
+      - "${PORT:-5000}:5000"
